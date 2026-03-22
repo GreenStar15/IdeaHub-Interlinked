@@ -1,3 +1,5 @@
+<img width="439" height="569" alt="IdeaHub nobg" src="https://github.com/user-attachments/assets/01ca6ce6-2cc0-4506-b513-5118b4d82afa" />
+
 Muitas instituições possuem problemas como:
 
 1.Falta de organização das ideias de melhoria tecnológica
@@ -16,8 +18,11 @@ O IdeaNet resolve isso criando um ambiente estruturado para gestão de ideias e 
 O sistema será voltado para instituições educacionais como:
 
 1.Escolas
+
 2.Faculdades
+
 3.Universidades
+
 4.Instituições técnicas
 
 O Produto Mínimo Viável (MVP) do sistema terá:
@@ -27,7 +32,6 @@ Autenticação de usuários
 Diferentes níveis de acesso
 
 2. Registro de Ideias aonde os usuários podem cadastrar ideias como:
-
 Expansão da rede Wi-Fi
 Criação de VLANs
 Implantação de servidores
